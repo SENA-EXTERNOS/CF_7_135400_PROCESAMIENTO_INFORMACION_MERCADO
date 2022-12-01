@@ -1,14 +1,29 @@
 .banner-principal-decorativo
   &-1
-    animation: float1 3.5s ease-in-out infinite alternate
     position: absolute
     top: 40%
-    right: 50%
+    right: 40%
+    width: 60%
   &-2
+    position: absolute
+    top: 24%
+    right: 0%
+    width: 75%
+  &-3
+    animation: float1 3.5s ease-in-out infinite alternate
+    position: absolute
+    top: 30%
+    right: 80%
+  &-4
     animation: float1 2.8s ease-in-out infinite alternate
     position: absolute
-    top: 51%
-    right: 30%
+    top: 65%
+    right: 80%
+  &-5
+    animation: float1 2.8s ease-in-out infinite alternate
+    position: absolute
+    top: 31%
+    right: 65%
 
 
 @keyframes float1
@@ -17,3 +32,201 @@
 
   100%
     transform: translateY(0px)
+
+//Estilos Adicionales
+
+//Introduccion
+.imagen-decora
+  //animation: float5 3.5s ease-in-out infinite alternate
+  top: 33%
+  right: 14%
+@media (max-width: 500px)
+  .imagen-decora
+    //animation: float5 3.5s ease-in-out infinite alternate
+    top: 10%
+    right: 14%
+    width: 60%
+    margin-left: 20%
+
+.background-img
+  border-start-end-radius: 22px
+  border-bottom-left-radius: 22px
+  background-color: #D8ECFD
+
+.background-img2
+  border-start-start-radius: 22px
+  border-bottom-right-radius: 22px
+  background-color: #D6C7F0
+
+//Tema 1
+
+.bgr1-tema1
+  background-color: #E7DEF6
+
+.img250
+  width: 250px 
+
+.img251
+  width: 90%
+  margin-left: 43%
+
+.bgr1-tarjeta
+  background-color: red !important
+  z-index: 1
+
+.bgr1-pasos-tema1
+  background-color: #FFFCB8 !important
+  background-size: 100% 100%
+
+.tarjeta.color-acento-botones 
+    background-color: #D0E9FC
+    height: 445px
+
+//// Tarjetas --------------------------------------
+.crd
+  &.brd--rad
+    border-radius: 20px 
+  &.crd--grayGrad
+    padding: 2rem
+    height: 100%
+    background-color: #F6F6F6
+    border-radius: 15px    
+    box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23)
+    &:hover      
+      background: linear-gradient(180deg, rgba(25,137,226,1) 0%, rgba(10,81,139,1) 100%)
+      h4, p
+        color: white 
+      .bottomCircle
+        &::before
+          background-color: #FED981
+  &.crd--blue
+    background-color: #B1DBEA
+
+  &.crd--border
+    border: 4px solid $color-acento-botones
+    border-radius: 20px
+
+.bottomCircle
+  position: relative
+  & > *
+    position: relative
+  &::before
+    content: ""
+    position: absolute
+    top: 50%
+    left: 50%
+    transform: translate(-50%,-50%)
+    width: 115px
+    height: 115px
+    background-color: #116EB9
+    border-radius: 999px
+
+.crd--avatarHorizontal
+  position: relative
+  padding-right: 12rem
+  & > *
+    position: relative
+  h5 
+    color: #7F4FC7
+  p 
+    margin-bottom: 0
+  &::before  
+    position: absolute 
+    content: ''
+    top: 0
+    right: 0
+    width: calc( 100% - 60px)
+    height: 100%
+    background-color: #B0D9FA
+
+  @media (max-width: 1000px)
+    padding-right: 2rem
+
+.crd--avatarHorizontal2
+  position: relative
+  padding-right: 12rem
+  & > *
+    position: relative
+  h5 
+    color: #7F4FC7
+  p 
+    margin-bottom: 0
+  &::before  
+    position: absolute 
+    content: ''
+    top: 0
+    right: 0
+    width: calc( 100% - 60px)
+    height: 100%
+    background-color: #C9E5FC
+
+  @media (max-width: 1000px)
+    padding-right: 2rem
+
+.crd--first, .crd--last 
+  &::before 
+    background-color: #C9E5FC !important
+
+.crd--first
+  &::before 
+    border-top-left-radius: 30px
+.crd--last
+  &::before 
+    border-bottom-left-radius: 30px
+
+.avatar
+  position: absolute
+  bottom: 0
+  right: -4rem
+  z-index: 1
+  @media (max-width: 1000px)
+    display: none
+
+///// Custom acordeon A tipo A -------------------------------------- 
+.tarjeta.acordeonA
+  background-color: #D2E1F1
+
+.acordion__accion__btn--a
+  background-color: #EEAC3A !important
+
+.acordion__activo
+  background-color: #fdf3e1 !important
+
+///// Linea tiempo D --------------------------------------
+.linea-tiempo-d__item__content.tarjeta.tarjeta--gris, .linea-tiempo-d__item__number.tarjeta.tarjeta--gris
+  background-color: #F6F6F6
+
+.linea-tiempo-d__item.row.linea-tiempo-d__item--selected
+  .linea-tiempo-d__item__content.tarjeta.tarjeta--gris
+    background-color: #D8ECFD
+
+.linea-tiempo-c__header__btn, .linea-tiempo-c__header__btn--left, .linea-tiempo-c__header__btn--right, .pasos-b__header__btn--left, .pasos-b__header__btn--right 
+    border: 2px solid #FEF536
+    background-color: #FEF536
+
+.pasos-b__header__item--before .pasos-b__header__item__line-container:before, .pasos-b__header__item--before .pasos-b__header__item__line-container:after 
+    background-color: #BA68C8
+
+.pasos-b__header__item--before .pasos-b__header__item__dot 
+    border-color: #BA68C8
+    background-color: #BA68C8
+
+.pasos-b__header__item--active .pasos-b__header__item__line-container:before 
+    background-color: #BA68C8
+
+///// SLyder A tipo B Custom --------------------------------------
+.slyder-a__tipo-b .slyder-a__btn--atrs
+  background-color: #F2E995
+
+.slyder-a__tipo-b .slyder-a__btn--sigt
+  background-color: #F2E995
+
+.slyder-a__btn--sigt, .slyder-a__btn--atrs  
+  border: none
+
+.slyder-a__bullets__item--active
+  background-color: #8C5BE1 !important
+  border: none
+
+.slyder-a__bullets__item
+  background-color: #AFAFAF  

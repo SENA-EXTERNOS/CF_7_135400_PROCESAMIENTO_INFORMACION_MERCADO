@@ -1,7 +1,9 @@
 export default {
   global: {
-    componenteFormativo: 'NOMBRE DEL COMPONENTE FORMATIVO',
-    descripcionCurso: 'BREVE DESCRIPCIÓN',
+    componenteFormativo:
+      'Aplicación de herramientas estadísticas en la presentación de datos',
+    descripcionCurso:
+      'El presente componente formativo será un gran aporte para el aprendizaje de herramientas que ayuden a interpretar la información recolectada, de manera adecuada y precisa, en los procesos de investigación de mercados que emprende una empresa, en aras de fortalecer la comercialización de sus productos.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-princiapal.svg'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
     imagenesDecorativasBanner: [
@@ -12,6 +14,18 @@ export default {
       {
         clases: ['banner-principal-decorativo-2'],
         imagen: require('@/assets/curso/portada/banner-principal-decorativo-2.svg'),
+      },
+      {
+        clases: ['banner-principal-decorativo-3', 'd-none', 'd-lg-block'],
+        imagen: require('@/assets/curso/portada/banner-principal-decorativo-3.svg'),
+      },
+      {
+        clases: ['banner-principal-decorativo-4'],
+        imagen: require('@/assets/curso/portada/banner-principal-decorativo-4.svg'),
+      },
+      {
+        clases: ['banner-principal-decorativo-5', 'd-none', 'd-lg-block'],
+        imagen: require('@/assets/curso/portada/banner-principal-decorativo-5.svg'),
       },
     ],
   },
@@ -32,31 +46,40 @@ export default {
         nombreRuta: 'tema1',
         icono: 'far fa-file-alt',
         numero: '1',
-        titulo: 'Titulo de primer nivel',
+        titulo: 'Herramientas estadísticas',
         desarrolloContenidos: true,
         subMenu: [
           {
             icono: 'far fa-file-alt',
             numero: '1.1',
-            titulo: 'Titulo de segundo nivel',
+            titulo: 'Selección de herramientas estadísticas',
             hash: 't_1_1',
           },
+          {
+            icono: 'far fa-file-alt',
+            numero: '1.2',
+            titulo: 'Gráfico de barras',
+            hash: 't_1_2',
+          },
+          {
+            icono: 'far fa-file-alt',
+            numero: '1.3',
+            titulo: 'Análisis de Pareto',
+            hash: 't_1_3',
+          },
+          {
+            icono: 'far fa-file-alt',
+            numero: '1.4',
+            titulo: 'Histogramas. Maestro de productos',
+            hash: 't_1_4',
+          },
+          {
+            icono: 'far fa-file-alt',
+            numero: '1.5',
+            titulo: 'Medidas de tendencia',
+            hash: 't_1_5',
+          },
         ],
-      },
-
-      {
-        nombreRuta: 'tema2',
-        icono: 'far fa-file-alt',
-        numero: '2',
-        titulo: 'Titulo de primer nivel',
-        desarrolloContenidos: true,
-      },
-      {
-        nombreRuta: 'tema3',
-        icono: 'far fa-file-alt',
-        numero: '3',
-        titulo: 'Titulo de primer nivel',
-        desarrolloContenidos: true,
       },
     ],
     subMenu: [
@@ -101,32 +124,157 @@ export default {
   },
   complementario: [
     {
-      tema: '',
-      referencia: '',
-      tipo: '',
-      link: 'https://www.google.com/',
+      tema:
+        'Codificación y tabulación de datos e información de mercados	Tutor formación. (s,f). Codificación y tabulación de datos e información de mercados. Editorial tutor formación 	PDF	https://editorial.tutorformacion.es/es/index.php?controller=attachment&id_attachment=151',
+      referencia:
+        'Tutor formación. (s,f). <em>Codificación y tabulación de datos e información de mercados</em>. Editorial tutor formación',
+      tipo: 'PDF',
+      link:
+        'https://editorial.tutorformacion.es/es/index.php?controller=attachment&id_attachment=151://www.google.com/',
     },
     {
-      tema: '',
-      referencia: '',
-      tipo: '',
-      descarga: '/downloads/prueba.pdf',
+      tema: 'Fuentes de información',
+      referencia:
+        'Margarita Aida Cruz García(2019). <em>Boletín Científico de las Ciencias Económico Administrativas del ICEA.</em>',
+      tipo: 'Artículo',
+      link:
+        'https://repository.uaeh.edu.mx/revistas/index.php/icea/article/view/4864/6748',
+    },
+    {
+      tema: 'Guía para la presentación de gráficos estadísticos',
+      referencia:
+        'ISO 27001. (2013). Sistema de Gestión de Seguridad en la Información.',
+      tipo: 'Norma',
+      link:
+        'https://www.nqa.com/medialibraries/NQA/NQA-Media-Library/PDFs/Spanish%20QRFs%20and%20PDFs/NQA-ISO-27001-Guia-de-implantacion.pdf',
+    },
+    {
+      tema: 'Guía de implementación para la seguridad de la información ',
+      referencia:
+        'ISO 27001. (2013). <em>Guía de implementación para la seguridad de la información.</em>',
+      tipo: 'Norma',
+      link:
+        'https://www.nqa.com/medialibraries/NQA/NQA-Media-Library/PDFs/Spanish%20QRFs%20and%20PDFs/NQA-ISO-27001-Guia-de-implantacion.pdf',
     },
   ],
   glosario: [
     {
-      termino: '',
-      significado: '',
+      termino: 'Análisis',
+      significado:
+        'Análisis:	descomposición de elementos que conforman la totalidad de datos, cuyo fin es clasificar y reclasificar el material recogido desde diferentes puntos de vista hasta optar por el más preciso y representativo.',
     },
     {
-      termino: '<em></em>',
-      significado: '',
+      termino: 'Concepto',
+      significado:
+        'Concepto:	símbolo que representa las semejanzas de fenómenos por demás diversos.',
+    },
+    {
+      termino: 'Conclusiones',
+      significado:
+        'Conclusiones:	representan la síntesis de los resultados obtenidos a lo largo del proceso de investigación.',
+    },
+    {
+      termino: 'Confiabilidad',
+      significado:
+        'Confiabilidad:	 indica la estabilidad, consistencia y exactitud de los resultados.',
+    },
+    {
+      termino: 'Cuadro o tabla',
+      significado:
+        'Cuadro o tabla:	ordenamiento de datos numéricos en renglones y columnas que especifican la naturaleza de estos.',
+    },
+    {
+      termino: 'Dato primario',
+      significado:
+        'Dato primario:	 información reunida por el investigador directamente de la fuente.',
+    },
+    {
+      termino: 'Dato secundario',
+      significado:
+        'información reunida por una persona diferente al investigador.',
+    },
+    {
+      termino: 'Descripción',
+      significado:
+        'Descripción:	Resumen muy breve que contiene la información más relevante contenida en un trabajo escrito, informe, etc.',
+    },
+    {
+      termino: 'Entrevista',
+      significado:
+        'Entrevista:	se efectúa con base en un cuestionario y con una cédula que se debe llenar a medida que se desarrolla.',
+    },
+    {
+      termino: 'Estudio de campo',
+      significado:
+        'Estudio de campo:	son investigaciones que se realizan en el medio ambiente donde se desarrolla el problema que se va a investigar.',
+    },
+    {
+      termino: 'Hipótesis',
+      significado:
+        'Hipótesis:	es la respuesta tentativa a un problema; es una proposición que se pone a prueba para determinar su validez.',
+    },
+    {
+      termino: 'Muestreo',
+      significado:
+        'Muestreo:	conjunto de operaciones que se realizan para estudiar la distribución de determinadas características en la totalidad de una población denominada muestra.',
+    },
+    {
+      termino: 'Observación de campo',
+      significado:
+        'Observación de campo:	se realiza en el lugar donde se da el fenómeno observado.',
+    },
+    {
+      termino: 'Preparación',
+      significado:
+        'Preparación:	Proceso realizado previamente a la ejecución de una actividad que requiere de elementos o conocimientos específicos.',
+    },
+    {
+      termino: 'Recolección',
+      significado:
+        'Recolección:	recoger, reunir o agrupar diferentes elementos o información que cumpla con características especiales y con propósitos específicos. ',
+    },
+    {
+      termino: 'Repositorio',
+      significado:
+        'Repositorio:	lugar o ubicación donde se guarda información, en su mayoría, con características específicas o representativas.',
+    },
+    {
+      termino: 'Tabulación',
+      significado:
+        'Tabulación:	consiste en determinar grupos, subgrupos, clases o categorías en los que puedan ser clasificadas las respuestas del cuestionario aplicado en la investigación, resumiendo los datos en tablas estadísticas.',
     },
   ],
   referencias: [
     {
-      referencia: '',
+      referencia:
+        'Artículo	Alfredo Baronio, S. C. (2018). <em>Saber y Saber Hacer con Estadística</em>. Córdoba, Argentina: UniRio.',
       link: '',
+    },
+    {
+      referencia:
+        'ISO 27001. (2013). Sistema de Gestión de Seguridad en la Información.',
+      link: '',
+    },
+    {
+      referencia:
+        'Margarita Aida Cruz García. (2019). <em>Boletín Científico de las Ciencias Económico Administrativas del ICEA</em>. Obtenido de ',
+      link: '',
+    },
+    {
+      referencia:
+        'Mariela Torres, K. P. (s.f.). MÉTODOS DE RECOLECCIÓN DE DATOS PARA UNA INVESTIGACIÓN. <em>Boletín electrónico No. 03</em>. Facultad de Ingeniería, Universidad Rafael Landívar.',
+      link: '',
+    },
+    {
+      referencia:
+        'Roberto Hernandez Sampieri, C. F. (2016). <em>Metodología de la Investigación</em>. Mc Graw Hill.',
+      link: '',
+    },
+    {
+      referencia:
+        'Universidad Autónoma del estado de Hidalgo. (2018). Fuentes de información. Obtenido de Sistema de Universidad Virtual:',
+      link:
+        'https://repository.uaeh.edu.mx/bitstream/bitstream/handle/123456789/16700/LECT132.pdf',
     },
   ],
   creditos: {
