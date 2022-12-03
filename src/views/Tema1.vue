@@ -14,15 +14,15 @@
       .bloque-texto-g__texto.p-4
         p.mb-0 Las herramientas estadísticas ofrecen muy buenas opciones para la solución de problemas que pueden presentarse en cualquier empresa. A través de ellas se logra obtener información precisa de un objetivo específico establecido con fines de identificar un comportamiento, tendencia, preferencia, entre otros, de los clientes en cualquier estudio de mercado. Además, también son útiles para interpretar y controlar las variables en los diferentes procesos de una empresa, por ejemplo, para controlar la calidad. Las herramientas estadísticas tienen sus propias características, de tal manera que están diseñadas para representar diferentes tipos de datos, dependiendo del problema que se aborde. La utilización de herramientas estadísticas a través de gráficos constituye una importante herramienta para la interpretación de los datos, dado que permite una comprensión rápida y completa de la información al representar visualmente en forma conjunta los resultados más importantes.
 
-    .row.justify-content-center.align-items-center.mb-5.background-img.mt-5          
-      .col-lg-8
+    .row.justify-content-center.align-items-center.mb-5.background-img.mt-5.ajuste-recuadro       
+      .col-lg-8.p-4
         p El origen de los datos empleados en el análisis depende de la disponibilidad de información que exista, la cual puede provenir de fuentes primarias o secundarias. La información cuantitativa vendría siendo, quizás, de mayor precisión, debido a que es medible y cuantificable. 
 
         p Las herramientas estadísticas deben ser identificadas con ciertos parámetros que las caracterizan; por ejemplo, deben tener código o número, título y cuerpo. 
 
       .col-lg-3
         figure
-          img(src='@/assets/curso/temas/tema1/img2.svg').imgdimensioncaj.imagen-decora
+          img(src='@/assets/curso/temas/tema1/img2.svg').imgdimensioncaj3
 
     .row.mt-5
       p Los elementos generales de los gráficos estadísticos son:
@@ -98,7 +98,7 @@
     
     .row.justify-content-center.align-items-center.mb-5 
       .col-lg-9.position-relative
-        .avatar
+        .avatar.justify-content-center.align-items-center.mb-5 
           figure
             img(src="@/assets/curso/temas/tema1/img14.svg", alt="alt").img251
         .crd.crd--avatarHorizontal.crd--first.py-4
@@ -167,9 +167,9 @@
     .row.justify-content-center.align-items-center.mb-5        
       .col-lg-7
          .row.justify-content-center.align-items-center.mb-5
-            .col-lg-2
+            .col-lg-2.col-xs-6
               figure
-                img(src='@/assets/curso/temas/tema1/img15.svg')
+                img(src='@/assets/curso/temas/tema1/img15.svg').whith-azul
 
             .col-lg-10
               p.mt-3 Los gráficos de barras representan tantas barras como categorías tenga definida la variable, de tal manera que la altura de cada barra es proporcional a la frecuencia de cada clase. Estos gráficos también pueden utilizarse para describir variables numéricas discretas, por ejemplo: número de hijos, unidades, etc.
@@ -310,11 +310,10 @@
     .titulo-segundo.color-acento-contenido.mt-5(data-aos="zoom-in-left")
       h2 1.3 Análisis de Pareto  
 
-    .row.justify-content-center.align-items-center.mb-5.background-img2.mt-5       
-
+    .row.justify-content-center.align-items-center.mb-5.background-img2.mt-5.ajuste-recuadro         
       .col-lg-3
         figure
-          img(src='@/assets/curso/temas/tema1/img29.svg').imgdimensioncaj.imagen-decora
+          img(src='@/assets/curso/temas/tema1/img29.svg').imgdimensioncaj4
 
       .col-lg-8
         p.mt-3 El gráfico de Pareto corresponde a un tipo de gráfico de barras verticales, en el cual se ordenan los datos por frecuencias y de manera descendente, según su prioridad. 
@@ -402,10 +401,10 @@
     .row.justify-content-center.align-items-center.mb-5  
       .col-lg-2
         figure
-          img(src='@/assets/curso/temas/tema1/img37.svg', alt='')
+          img(src='@/assets/curso/temas/tema1/img37.svg', alt='').whith-azul
 
       .col-lg-8
-         ul.lista-ul.mb-4.lista-ul--color
+         ul.lista-ul.mb-4.lista-ul--color.mt-3
             li 
               i.fas.fa-angle-right.txt--orange
               p.mb-0 #[b recuencia:] corresponde al número de veces que puede producirse un suceso. 
@@ -531,7 +530,7 @@
           figure(data-aos="zoom-in")
             img(src="@/assets/curso/temas/tema1/img44.svg", alt="alt").img400.m-auto
         .col-lg-8
-          AcordionA.mb-5(tipo="a" clase-tarjeta="tarjeta acordeonA")
+          AcordionA.mb-5(tipo="a" clase-tarjeta="tarjeta acordeonA").mt-3
             .row(titulo="La media")
               .col-12
                 p.mb-0 La media, conocida como media aritmética, también es llamada “promedio” y se obtiene sumando todos los valores de los datos relacionados, que luego se deben dividir entre la cantidad de datos que existen. 
@@ -604,7 +603,7 @@
                     i.fas.fa-angle-right.txt--orange
                     p.mb-0 Es la única medida que analiza la posición de los valores de tipo cuantitativo y cualitativo.
 
-    .row.mt-5
+    .row.mt-3
       p Aprendiz, ha culminado satisfactoriamente el estudio de las temáticas del componente formativo. A continuación se presenta una síntesis donde recordará todo lo aprendido. También encontrará la actividad didáctica y los materiales complementarios para que fortalezca sus conocimientos en los temas vistos.                   
 
 </template>
