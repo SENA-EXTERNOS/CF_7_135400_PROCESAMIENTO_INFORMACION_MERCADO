@@ -125,7 +125,7 @@ export default {
   complementario: [
     {
       tema:
-        'Codificación y tabulación de datos e información de mercados	Tutor formación. (s,f). Codificación y tabulación de datos e información de mercados. Editorial tutor formación 	PDF	https://editorial.tutorformacion.es/es/index.php?controller=attachment&id_attachment=151',
+        'Codificación y tabulación de datos e información de mercados	Tutor formación. (s,f). Codificación y tabulación de datos e información de mercados. Editorial tutor formación',
       referencia:
         'Tutor formación. (s,f). <em>Codificación y tabulación de datos e información de mercados</em>. Editorial tutor formación',
       tipo: 'PDF',
@@ -161,32 +161,32 @@ export default {
     {
       termino: 'Análisis',
       significado:
-        'Análisis:	descomposición de elementos que conforman la totalidad de datos, cuyo fin es clasificar y reclasificar el material recogido desde diferentes puntos de vista hasta optar por el más preciso y representativo.',
+        'descomposición de elementos que conforman la totalidad de datos, cuyo fin es clasificar y reclasificar el material recogido desde diferentes puntos de vista hasta optar por el más preciso y representativo.',
     },
     {
       termino: 'Concepto',
       significado:
-        'Concepto:	símbolo que representa las semejanzas de fenómenos por demás diversos.',
+        'símbolo que representa las semejanzas de fenómenos por demás diversos.',
     },
     {
       termino: 'Conclusiones',
       significado:
-        'Conclusiones:	representan la síntesis de los resultados obtenidos a lo largo del proceso de investigación.',
+        'representan la síntesis de los resultados obtenidos a lo largo del proceso de investigación.',
     },
     {
       termino: 'Confiabilidad',
       significado:
-        'Confiabilidad:	 indica la estabilidad, consistencia y exactitud de los resultados.',
+        'indica la estabilidad, consistencia y exactitud de los resultados.',
     },
     {
       termino: 'Cuadro o tabla',
       significado:
-        'Cuadro o tabla:	ordenamiento de datos numéricos en renglones y columnas que especifican la naturaleza de estos.',
+        'ordenamiento de datos numéricos en renglones y columnas que especifican la naturaleza de estos.',
     },
     {
       termino: 'Dato primario',
       significado:
-        'Dato primario:	 información reunida por el investigador directamente de la fuente.',
+        'información reunida por el investigador directamente de la fuente.',
     },
     {
       termino: 'Dato secundario',
@@ -196,52 +196,51 @@ export default {
     {
       termino: 'Descripción',
       significado:
-        'Descripción:	Resumen muy breve que contiene la información más relevante contenida en un trabajo escrito, informe, etc.',
+        'Resumen muy breve que contiene la información más relevante contenida en un trabajo escrito, informe, etc.',
     },
     {
       termino: 'Entrevista',
       significado:
-        'Entrevista:	se efectúa con base en un cuestionario y con una cédula que se debe llenar a medida que se desarrolla.',
+        'se efectúa con base en un cuestionario y con una cédula que se debe llenar a medida que se desarrolla.',
     },
     {
       termino: 'Estudio de campo',
       significado:
-        'Estudio de campo:	son investigaciones que se realizan en el medio ambiente donde se desarrolla el problema que se va a investigar.',
+        'son investigaciones que se realizan en el medio ambiente donde se desarrolla el problema que se va a investigar.',
     },
     {
       termino: 'Hipótesis',
       significado:
-        'Hipótesis:	es la respuesta tentativa a un problema; es una proposición que se pone a prueba para determinar su validez.',
+        'es la respuesta tentativa a un problema; es una proposición que se pone a prueba para determinar su validez.',
     },
     {
       termino: 'Muestreo',
       significado:
-        'Muestreo:	conjunto de operaciones que se realizan para estudiar la distribución de determinadas características en la totalidad de una población denominada muestra.',
+        'conjunto de operaciones que se realizan para estudiar la distribución de determinadas características en la totalidad de una población denominada muestra.',
     },
     {
       termino: 'Observación de campo',
-      significado:
-        'Observación de campo:	se realiza en el lugar donde se da el fenómeno observado.',
+      significado: 'se realiza en el lugar donde se da el fenómeno observado.',
     },
     {
       termino: 'Preparación',
       significado:
-        'Preparación:	Proceso realizado previamente a la ejecución de una actividad que requiere de elementos o conocimientos específicos.',
+        'Proceso realizado previamente a la ejecución de una actividad que requiere de elementos o conocimientos específicos.',
     },
     {
       termino: 'Recolección',
       significado:
-        'Recolección:	recoger, reunir o agrupar diferentes elementos o información que cumpla con características especiales y con propósitos específicos. ',
+        'recoger, reunir o agrupar diferentes elementos o información que cumpla con características especiales y con propósitos específicos. ',
     },
     {
       termino: 'Repositorio',
       significado:
-        'Repositorio:	lugar o ubicación donde se guarda información, en su mayoría, con características específicas o representativas.',
+        'lugar o ubicación donde se guarda información, en su mayoría, con características específicas o representativas.',
     },
     {
       termino: 'Tabulación',
       significado:
-        'Tabulación:	consiste en determinar grupos, subgrupos, clases o categorías en los que puedan ser clasificadas las respuestas del cuestionario aplicado en la investigación, resumiendo los datos en tablas estadísticas.',
+        'consiste en determinar grupos, subgrupos, clases o categorías en los que puedan ser clasificadas las respuestas del cuestionario aplicado en la investigación, resumiendo los datos en tablas estadísticas.',
     },
   ],
   referencias: [
@@ -254,6 +253,12 @@ export default {
       referencia:
         'ISO 27001. (2013). Sistema de Gestión de Seguridad en la Información.',
       link: '',
+    },
+    {
+      referencia:
+        'Margarita Aida Cruz García. (2019). <em>Boletín Científico de las Ciencias Económico Administrativas del ICEA</em>. Obtenido de',
+      link:
+        'https://repository.uaeh.edu.mx/revistas/index.php/icea/article/view/4864/6748',
     },
     {
       referencia:

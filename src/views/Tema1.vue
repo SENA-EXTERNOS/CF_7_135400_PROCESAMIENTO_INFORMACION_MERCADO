@@ -407,7 +407,7 @@
          ul.lista-ul.mb-4.lista-ul--color.mt-3
             li 
               i.fas.fa-angle-right.txt--orange
-              p.mb-0 #[b recuencia:] corresponde al número de veces que puede producirse un suceso. 
+              p.mb-0 #[b Frecuencia:] corresponde al número de veces que puede producirse un suceso. 
 
             li 
               i.fas.fa-angle-right.txt--orange
