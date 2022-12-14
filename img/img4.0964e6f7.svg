@@ -1,0 +1,91 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="492" viewBox="0 0 400 492">
+  <g id="Grupo_187265" data-name="Grupo 187265" transform="translate(5977 10268)">
+    <path id="Rectángulo_43956" data-name="Rectángulo 43956" d="M20,0H400a0,0,0,0,1,0,0V472a20,20,0,0,1-20,20H0a0,0,0,0,1,0,0V20A20,20,0,0,1,20,0Z" transform="translate(-5977 -10268)" fill="#64b5f6"/>
+    <g id="Grupo_138718" data-name="Grupo 138718" transform="translate(-6898 -12332.5)">
+      <path id="Trazado_126259" data-name="Trazado 126259" d="M104,0A104,104,0,1,1,0,104,104,104,0,0,1,104,0Z" transform="translate(947.001 2115.001)" fill="#fff"/>
+      <g id="Grupo_138712" data-name="Grupo 138712" transform="translate(980.625 2160.813)">
+        <g id="Grupo_138709" data-name="Grupo 138709" transform="translate(40.625 9.75)">
+          <g id="Rectángulo_43951" data-name="Rectángulo 43951" transform="translate(22.75 44.437)" fill="#64b5f6" stroke="#12263f" stroke-width="5">
+            <rect width="19" height="28" stroke="none"/>
+            <rect x="2.5" y="2.5" width="14" height="23" fill="none"/>
+          </g>
+          <g id="Rectángulo_43954" data-name="Rectángulo 43954" transform="translate(-0.25 0.437)" fill="#5c22c3" stroke="#12263f" stroke-width="5">
+            <rect width="19" height="72" stroke="none"/>
+            <rect x="2.5" y="2.5" width="14" height="67" fill="none"/>
+          </g>
+        </g>
+        <g id="Grupo_138710" data-name="Grupo 138710" transform="translate(96.687 9.75)">
+          <g id="Rectángulo_43951-2" data-name="Rectángulo 43951" transform="translate(22.688 44.437)" fill="#64b5f6" stroke="#12263f" stroke-width="5">
+            <rect width="19" height="28" stroke="none"/>
+            <rect x="2.5" y="2.5" width="14" height="23" fill="none"/>
+          </g>
+          <g id="Rectángulo_43954-2" data-name="Rectángulo 43954" transform="translate(-0.312 0.437)" fill="#5c22c3" stroke="#12263f" stroke-width="5">
+            <rect width="19" height="72" stroke="none"/>
+            <rect x="2.5" y="2.5" width="14" height="67" fill="none"/>
+          </g>
+        </g>
+        <line id="Línea_139" data-name="Línea 139" x2="126" transform="translate(26.374 91.186)" fill="none" stroke="#12263f" stroke-linecap="round" stroke-width="5"/>
+        <line id="Línea_141" data-name="Línea 141" x2="10" transform="translate(21.374 81.186)" fill="none" stroke="#12263f" stroke-linecap="round" stroke-width="5"/>
+        <line id="Línea_152" data-name="Línea 152" x2="10.148" transform="translate(61.42 85.695) rotate(90)" fill="none" stroke="#12263f" stroke-linecap="round" stroke-width="5"/>
+        <line id="Línea_153" data-name="Línea 153" x2="10.148" transform="translate(117.499 85.695) rotate(90)" fill="none" stroke="#12263f" stroke-linecap="round" stroke-width="5"/>
+        <line id="Línea_142" data-name="Línea 142" x2="10" transform="translate(21.374 45.186)" fill="none" stroke="#12263f" stroke-linecap="round" stroke-width="5"/>
+        <line id="Línea_148" data-name="Línea 148" x2="10" transform="translate(21.374 10.186)" fill="none" stroke="#12263f" stroke-linecap="round" stroke-width="5"/>
+        <line id="Línea_140" data-name="Línea 140" y2="91" transform="translate(26.374 0.186)" fill="none" stroke="#12263f" stroke-linecap="round" stroke-width="5"/>
+        <text id="_0" data-name="0" transform="translate(15.374 86.187)" fill="#12263f" font-size="16" font-family="Roboto-Black, Roboto" font-weight="800"><tspan x="-9.266" y="0">0</tspan></text>
+        <text id="A" transform="translate(61.374 114.187)" fill="#12263f" font-size="16" font-family="Roboto-Black, Roboto" font-weight="800"><tspan x="-5.449" y="0">A</tspan></text>
+        <text id="B" transform="translate(117.374 114.187)" fill="#12263f" font-size="16" font-family="Roboto-Black, Roboto" font-weight="800"><tspan x="-5.16" y="0">B</tspan></text>
+        <text id="_100" data-name="100" transform="translate(17.374 52.187)" fill="#12263f" font-size="16" font-family="Roboto-Black, Roboto" font-weight="800"><tspan x="-27.797" y="0">100</tspan></text>
+        <text id="_200" data-name="200" transform="translate(17.374 16.187)" fill="#12263f" font-size="16" font-family="Roboto-Black, Roboto" font-weight="800"><tspan x="-27.797" y="0">200</tspan></text>
+      </g>
+    </g>
+    <g id="Grupo_138717" data-name="Grupo 138717" transform="translate(-6898 -12332.5)">
+      <path id="Trazado_126260" data-name="Trazado 126260" d="M104,0A104,104,0,1,1,0,104,104,104,0,0,1,104,0Z" transform="translate(1087 2298.001)" fill="#fff"/>
+      <g id="Grupo_138715" data-name="Grupo 138715" transform="translate(140 -41)">
+        <g id="Grupo_138709-2" data-name="Grupo 138709" transform="translate(1021.251 2381.563)">
+          <g id="Rectángulo_43951-3" data-name="Rectángulo 43951" transform="translate(22.75 44.437)" fill="#ba68c8" stroke="#12263f" stroke-width="5">
+            <rect width="19" height="28" stroke="none"/>
+            <rect x="2.5" y="2.5" width="14" height="23" fill="none"/>
+          </g>
+          <g id="Rectángulo_43954-3" data-name="Rectángulo 43954" transform="translate(-0.25 0.437)" fill="#fef536" stroke="#12263f" stroke-width="5">
+            <rect width="19" height="72" stroke="none"/>
+            <rect x="2.5" y="2.5" width="14" height="67" fill="none"/>
+          </g>
+        </g>
+        <g id="Grupo_138710-2" data-name="Grupo 138710" transform="translate(1077.313 2381.563)">
+          <g id="Rectángulo_43951-4" data-name="Rectángulo 43951" transform="translate(22.688 44.437)" fill="#ba68c8" stroke="#12263f" stroke-width="5">
+            <rect width="19" height="28" stroke="none"/>
+            <rect x="2.5" y="2.5" width="14" height="23" fill="none"/>
+          </g>
+          <g id="Rectángulo_43954-4" data-name="Rectángulo 43954" transform="translate(-0.312 0.437)" fill="#fef536" stroke="#12263f" stroke-width="5">
+            <rect width="19" height="72" stroke="none"/>
+            <rect x="2.5" y="2.5" width="14" height="67" fill="none"/>
+          </g>
+        </g>
+        <line id="Línea_139-2" data-name="Línea 139" x2="126" transform="translate(1007 2463)" fill="none" stroke="#12263f" stroke-linecap="round" stroke-width="5"/>
+        <line id="Línea_141-2" data-name="Línea 141" x2="10" transform="translate(1002 2453)" fill="none" stroke="#12263f" stroke-linecap="round" stroke-width="5"/>
+        <line id="Línea_152-2" data-name="Línea 152" x2="10.148" transform="translate(1042.046 2457.508) rotate(90)" fill="none" stroke="#12263f" stroke-linecap="round" stroke-width="5"/>
+        <line id="Línea_153-2" data-name="Línea 153" x2="10.148" transform="translate(1098.125 2457.508) rotate(90)" fill="none" stroke="#12263f" stroke-linecap="round" stroke-width="5"/>
+        <line id="Línea_142-2" data-name="Línea 142" x2="10" transform="translate(1002 2417)" fill="none" stroke="#12263f" stroke-linecap="round" stroke-width="5"/>
+        <line id="Línea_148-2" data-name="Línea 148" x2="10" transform="translate(1002 2382)" fill="none" stroke="#12263f" stroke-linecap="round" stroke-width="5"/>
+        <line id="Línea_140-2" data-name="Línea 140" y2="91" transform="translate(1007 2372)" fill="none" stroke="#12263f" stroke-linecap="round" stroke-width="5"/>
+        <text id="_0-2" data-name="0" transform="translate(996 2458)" fill="#12263f" font-size="16" font-family="Roboto-Black, Roboto" font-weight="800"><tspan x="-9.266" y="0">0</tspan></text>
+        <text id="A-2" data-name="A" transform="translate(1042 2486)" fill="#12263f" font-size="16" font-family="Roboto-Black, Roboto" font-weight="800"><tspan x="-5.449" y="0">A</tspan></text>
+        <text id="B-2" data-name="B" transform="translate(1098 2486)" fill="#12263f" font-size="16" font-family="Roboto-Black, Roboto" font-weight="800"><tspan x="-5.16" y="0">B</tspan></text>
+        <text id="_15" data-name="15" transform="translate(998 2424)" fill="#12263f" font-size="16" font-family="Roboto-Black, Roboto" font-weight="800"><tspan x="-18.531" y="0">15</tspan></text>
+        <text id="_30" data-name="30" transform="translate(998 2388)" fill="#12263f" font-size="16" font-family="Roboto-Black, Roboto" font-weight="800"><tspan x="-18.531" y="0">30</tspan></text>
+      </g>
+      <g id="Grupo_138716" data-name="Grupo 138716" transform="translate(140 -41)">
+        <g id="Rectángulo_43951-5" data-name="Rectángulo 43951" transform="translate(1085 2498) rotate(90)" fill="#ba68c8" stroke="#12263f" stroke-width="5">
+          <rect width="16" height="28" stroke="none"/>
+          <rect x="2.5" y="2.5" width="11" height="23" fill="none"/>
+        </g>
+        <g id="Rectángulo_43954-5" data-name="Rectángulo 43954" transform="translate(1048 2498) rotate(90)" fill="#fef536" stroke="#12263f" stroke-width="5">
+          <rect width="16" height="28" stroke="none"/>
+          <rect x="2.5" y="2.5" width="11" height="23" fill="none"/>
+        </g>
+        <text id="A1" transform="translate(1034 2531)" fill="#12263f" font-size="16" font-family="Roboto-Black, Roboto" font-weight="800"><tspan x="-10.082" y="0">A1</tspan></text>
+        <text id="B2" transform="translate(1071 2531)" fill="#12263f" font-size="16" font-family="Roboto-Black, Roboto" font-weight="800"><tspan x="-9.793" y="0">B2</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>

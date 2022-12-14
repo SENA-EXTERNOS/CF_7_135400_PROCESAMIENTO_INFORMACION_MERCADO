@@ -1,0 +1,110 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="712" height="379" viewBox="0 0 712 379">
+  <g id="Grupo_180616" data-name="Grupo 180616" transform="translate(5278 170)">
+    <text id="_0" data-name="0" transform="translate(-5213 122)" fill="#12263f" font-size="16" font-family="Roboto-Black, Roboto" font-weight="800"><tspan x="-9.266" y="0">0</tspan></text>
+    <text id="Diagrama_de_Pareto" data-name="Diagrama de Pareto" transform="translate(-5011 -149)" fill="#12263f" font-size="20" font-family="Roboto-Black, Roboto" font-weight="800"><tspan x="0" y="0">Diagrama de Pareto</tspan></text>
+    <text id="Materiales" transform="translate(-5153.499 142)" fill="#12263f" font-size="16" font-family="Roboto-Black, Roboto" font-weight="800"><tspan x="-38.488" y="0">Materiales</tspan></text>
+    <text id="Frecuencia_absoluta" data-name="Frecuencia absoluta" transform="translate(-5261 -8.473) rotate(-90)" fill="#12263f" font-size="16" font-family="Roboto-Black, Roboto" font-weight="800"><tspan x="-72.832" y="0">Frecuencia absoluta</tspan></text>
+    <text id="Causas_de_No_Disponibilidad" data-name="Causas de No Disponibilidad" transform="translate(-4922.888 205)" fill="#12263f" font-size="16" font-family="Roboto-Black, Roboto" font-weight="800"><tspan x="-102.914" y="0">Causas de No Disponibilidad</tspan></text>
+    <text id="_Frecuencia_Acumulada" data-name="%Frecuencia Acumulada" transform="translate(-4570 -8.473) rotate(-90)" fill="#12263f" font-size="16" font-family="Roboto-Black, Roboto" font-weight="800"><tspan x="-88.438" y="0">%Frecuencia Acumulada</tspan></text>
+    <text id="Medios" transform="translate(-5061.223 142)" fill="#12263f" font-size="16" font-family="Roboto-Black, Roboto" font-weight="800"><tspan x="-26.656" y="0">Medios</tspan></text>
+    <text id="Mano_de_Obra" data-name="Mano de
+Obra" transform="translate(-4969.857 142)" fill="#12263f" font-size="16" font-family="Roboto-Black, Roboto" font-weight="800"><tspan x="-31.109" y="0">Mano de</tspan><tspan x="-17.188" y="20">Obra</tspan></text>
+    <text id="Metodos" transform="translate(-4877.883 142)" fill="#12263f" font-size="16" font-family="Roboto-Black, Roboto" font-weight="800"><tspan x="-31.578" y="0">Metodos</tspan></text>
+    <text id="Medio_Ambiente" data-name="Medio
+Ambiente" transform="translate(-4786.658 142)" fill="#12263f" font-size="16" font-family="Roboto-Black, Roboto" font-weight="800"><tspan x="-22.559" y="0">Medio</tspan><tspan x="-35.012" y="20">Ambiente</tspan></text>
+    <text id="Varios" transform="translate(-4694.867 142)" fill="#12263f" font-size="16" font-family="Roboto-Black, Roboto" font-weight="800"><tspan x="-23.172" y="0">Varios</tspan></text>
+    <text id="_10" data-name="10" transform="translate(-5213 99)" fill="#12263f" font-size="16" font-family="Roboto-Black, Roboto" font-weight="800"><tspan x="-18.531" y="0">10</tspan></text>
+    <text id="_20" data-name="20" transform="translate(-5213 75)" fill="#12263f" font-size="16" font-family="Roboto-Black, Roboto" font-weight="800"><tspan x="-18.531" y="0">20</tspan></text>
+    <text id="_20-2" data-name="20" transform="translate(-4631 75)" fill="#12263f" font-size="16" font-family="Roboto-Black, Roboto" font-weight="800"><tspan x="0" y="0">20</tspan></text>
+    <text id="_30" data-name="30" transform="translate(-5213 49)" fill="#12263f" font-size="16" font-family="Roboto-Black, Roboto" font-weight="800"><tspan x="-18.531" y="0">30</tspan></text>
+    <text id="_40" data-name="40" transform="translate(-5213 24)" fill="#12263f" font-size="16" font-family="Roboto-Black, Roboto" font-weight="800"><tspan x="-18.531" y="0">40</tspan></text>
+    <text id="_35" data-name="35" transform="translate(-5144 13)" fill="#12263f" font-size="16" font-family="Roboto-Black, Roboto" font-weight="800"><tspan x="-18.531" y="0">35</tspan></text>
+    <text id="_25" data-name="25" transform="translate(-5052 38)" fill="#12263f" font-size="16" font-family="Roboto-Black, Roboto" font-weight="800"><tspan x="-18.531" y="0">25</tspan></text>
+    <text id="_20-3" data-name="20" transform="translate(-4960 52)" fill="#12263f" font-size="16" font-family="Roboto-Black, Roboto" font-weight="800"><tspan x="-18.531" y="0">20</tspan></text>
+    <text id="_10-2" data-name="10" transform="translate(-4868 80)" fill="#12263f" font-size="16" font-family="Roboto-Black, Roboto" font-weight="800"><tspan x="-18.531" y="0">10</tspan></text>
+    <text id="_5" data-name="5" transform="translate(-4782 95)" fill="#12263f" font-size="16" font-family="Roboto-Black, Roboto" font-weight="800"><tspan x="-9.266" y="0">5</tspan></text>
+    <text id="_5-2" data-name="5" transform="translate(-4690 95)" fill="#12263f" font-size="16" font-family="Roboto-Black, Roboto" font-weight="800"><tspan x="-9.266" y="0">5</tspan></text>
+    <text id="_40-2" data-name="40" transform="translate(-4631 24)" fill="#12263f" font-size="16" font-family="Roboto-Black, Roboto" font-weight="800"><tspan x="0" y="0">40</tspan></text>
+    <text id="_50" data-name="50" transform="translate(-5213 -1)" fill="#12263f" font-size="16" font-family="Roboto-Black, Roboto" font-weight="800"><tspan x="-18.531" y="0">50</tspan></text>
+    <text id="_60" data-name="60" transform="translate(-5213 -28)" fill="#12263f" font-size="16" font-family="Roboto-Black, Roboto" font-weight="800"><tspan x="-18.531" y="0">60</tspan></text>
+    <text id="_60-2" data-name="60" transform="translate(-4631 -28)" fill="#12263f" font-size="16" font-family="Roboto-Black, Roboto" font-weight="800"><tspan x="0" y="0">60</tspan></text>
+    <text id="_70" data-name="70" transform="translate(-5213 -52)" fill="#12263f" font-size="16" font-family="Roboto-Black, Roboto" font-weight="800"><tspan x="-18.531" y="0">70</tspan></text>
+    <text id="_80" data-name="80" transform="translate(-5213 -77)" fill="#12263f" font-size="16" font-family="Roboto-Black, Roboto" font-weight="800"><tspan x="-18.531" y="0">80</tspan></text>
+    <text id="_80-2" data-name="80" transform="translate(-4631 -77)" fill="#12263f" font-size="16" font-family="Roboto-Black, Roboto" font-weight="800"><tspan x="0" y="0">80</tspan></text>
+    <text id="_90" data-name="90" transform="translate(-5213 -101)" fill="#12263f" font-size="16" font-family="Roboto-Black, Roboto" font-weight="800"><tspan x="-18.531" y="0">90</tspan></text>
+    <text id="_100" data-name="100" transform="translate(-5213 -127)" fill="#12263f" font-size="16" font-family="Roboto-Black, Roboto" font-weight="800"><tspan x="-27.797" y="0">100</tspan></text>
+    <text id="_100-2" data-name="100" transform="translate(-4631 -127)" fill="#12263f" font-size="16" font-family="Roboto-Black, Roboto" font-weight="800"><tspan x="0" y="0">100</tspan></text>
+    <line id="Línea_316" data-name="Línea 316" x2="568.776" transform="translate(-5207.276 117.565)" fill="none" stroke="#12263f" stroke-linecap="round" stroke-width="3"/>
+    <line id="Línea_308" data-name="Línea 308" x2="15.5" transform="translate(-5107.328 109.5) rotate(90)" fill="none" stroke="#12263f" stroke-linecap="round" stroke-width="3"/>
+    <line id="Línea_309" data-name="Línea 309" x2="15.5" transform="translate(-5015.85 109.5) rotate(90)" fill="none" stroke="#12263f" stroke-linecap="round" stroke-width="3"/>
+    <line id="Línea_310" data-name="Línea 310" x2="15.5" transform="translate(-4924.062 109.5) rotate(90)" fill="none" stroke="#12263f" stroke-linecap="round" stroke-width="3"/>
+    <line id="Línea_311" data-name="Línea 311" x2="15.5" transform="translate(-4832.271 109.5) rotate(90)" fill="none" stroke="#12263f" stroke-linecap="round" stroke-width="3"/>
+    <line id="Línea_329" data-name="Línea 329" x2="15.5" transform="translate(-4740.046 109.5) rotate(90)" fill="none" stroke="#12263f" stroke-linecap="round" stroke-width="3"/>
+    <line id="Línea_328" data-name="Línea 328" y2="257.891" transform="translate(-4647.821 -132.891)" fill="none" stroke="#12263f" stroke-linecap="round" stroke-width="3"/>
+    <line id="Línea_318" data-name="Línea 318" x2="15.834" transform="translate(-5206.333 66.947)" fill="none" stroke="#12263f" stroke-linecap="round" stroke-width="3"/>
+    <line id="Línea_330" data-name="Línea 330" x2="15.834" transform="translate(-4655.738 66.947)" fill="none" stroke="#12263f" stroke-linecap="round" stroke-width="3"/>
+    <line id="Línea_314" data-name="Línea 314" x2="15.834" transform="translate(-5206.333 92.087)" fill="none" stroke="#12263f" stroke-linecap="round" stroke-width="3"/>
+    <line id="Línea_319" data-name="Línea 319" x2="15.834" transform="translate(-5206.333 41.808)" fill="none" stroke="#12263f" stroke-linecap="round" stroke-width="3"/>
+    <line id="Línea_320" data-name="Línea 320" x2="15.834" transform="translate(-5206.333 16.667)" fill="none" stroke="#12263f" stroke-linecap="round" stroke-width="3"/>
+    <line id="Línea_331" data-name="Línea 331" x2="15.834" transform="translate(-4655.738 16.667)" fill="none" stroke="#12263f" stroke-linecap="round" stroke-width="3"/>
+    <line id="Línea_321" data-name="Línea 321" x2="15.834" transform="translate(-5206.333 -8.473)" fill="none" stroke="#12263f" stroke-linecap="round" stroke-width="3"/>
+    <line id="Línea_322" data-name="Línea 322" x2="15.834" transform="translate(-5206.333 -33.612)" fill="none" stroke="#12263f" stroke-linecap="round" stroke-width="3"/>
+    <line id="Línea_332" data-name="Línea 332" x2="15.834" transform="translate(-4655.738 -33.612)" fill="none" stroke="#12263f" stroke-linecap="round" stroke-width="3"/>
+    <line id="Línea_323" data-name="Línea 323" x2="15.834" transform="translate(-5206.333 -58.752)" fill="none" stroke="#12263f" stroke-linecap="round" stroke-width="3"/>
+    <line id="Línea_324" data-name="Línea 324" x2="15.834" transform="translate(-5206.333 -83.891)" fill="none" stroke="#12263f" stroke-linecap="round" stroke-width="3"/>
+    <line id="Línea_333" data-name="Línea 333" x2="15.834" transform="translate(-4655.738 -83.891)" fill="none" stroke="#12263f" stroke-linecap="round" stroke-width="3"/>
+    <line id="Línea_325" data-name="Línea 325" x2="15.834" transform="translate(-5206.333 -108.391)" fill="none" stroke="#12263f" stroke-linecap="round" stroke-width="3"/>
+    <line id="Línea_326" data-name="Línea 326" x2="15.834" transform="translate(-5206.333 -132.891)" fill="none" stroke="#12263f" stroke-linecap="round" stroke-width="3"/>
+    <line id="Línea_334" data-name="Línea 334" x2="15.834" transform="translate(-4655.738 -132.891)" fill="none" stroke="#12263f" stroke-linecap="round" stroke-width="3"/>
+    <line id="Línea_317" data-name="Línea 317" y2="257.391" transform="translate(-5198.808 -132.891)" fill="none" stroke="#12263f" stroke-linecap="round" stroke-width="3"/>
+    <g id="Rectángulo_45288" data-name="Rectángulo 45288" transform="translate(-5081.328 53)" fill="#64b5f6" stroke="#12263f" stroke-width="5">
+      <rect width="40" height="64.86" stroke="none"/>
+      <rect x="2.5" y="2.5" width="35" height="59.86" fill="none"/>
+    </g>
+    <g id="Rectángulo_45291" data-name="Rectángulo 45291" transform="translate(-5173.808 28)" fill="#64b5f6" stroke="#12263f" stroke-width="5">
+      <rect width="40" height="90.159" stroke="none"/>
+      <rect x="2.5" y="2.5" width="35" height="85.159" fill="none"/>
+    </g>
+    <g id="Rectángulo_45287" data-name="Rectángulo 45287" transform="translate(-4897.582 92.087)" fill="#64b5f6" stroke="#12263f" stroke-width="5">
+      <rect width="40" height="26.072" stroke="none"/>
+      <rect x="2.5" y="2.5" width="35" height="21.072" fill="none"/>
+    </g>
+    <g id="Rectángulo_45289" data-name="Rectángulo 45289" transform="translate(-4806.271 105)" fill="#64b5f6" stroke="#12263f" stroke-width="5">
+      <rect width="40" height="13.159" stroke="none"/>
+      <rect x="2.5" y="2.5" width="35" height="8.159" fill="none"/>
+    </g>
+    <g id="Rectángulo_45293" data-name="Rectángulo 45293" transform="translate(-4714.479 105.123)" fill="#64b5f6" stroke="#12263f" stroke-width="5">
+      <rect width="40" height="13.036" stroke="none"/>
+      <rect x="2.5" y="2.5" width="35" height="8.036" fill="none"/>
+    </g>
+    <g id="Rectángulo_45290" data-name="Rectángulo 45290" transform="translate(-4989.85 66.947)" fill="#64b5f6" stroke="#12263f" stroke-width="5">
+      <rect width="40" height="51.212" stroke="none"/>
+      <rect x="2.5" y="2.5" width="35" height="46.212" fill="none"/>
+    </g>
+    <path id="Trazado_242247" data-name="Trazado 242247" d="M-5154,30l93.333-59.333,91.333-53.333,86.667-24.667,91.333-10,92-15.333" fill="none" stroke="#12263f" stroke-width="3"/>
+    <g id="Rectángulo_45294" data-name="Rectángulo 45294" transform="translate(-5159 25)" fill="#ba68c8" stroke="#12263f" stroke-width="3">
+      <rect width="10" height="10" stroke="none"/>
+      <rect x="-1.5" y="-1.5" width="13" height="13" fill="none"/>
+    </g>
+    <g id="Rectángulo_45295" data-name="Rectángulo 45295" transform="translate(-5066 -34)" fill="#ba68c8" stroke="#12263f" stroke-width="3">
+      <rect width="10" height="10" stroke="none"/>
+      <rect x="-1.5" y="-1.5" width="13" height="13" fill="none"/>
+    </g>
+    <g id="Rectángulo_45296" data-name="Rectángulo 45296" transform="translate(-4975 -88)" fill="#ba68c8" stroke="#12263f" stroke-width="3">
+      <rect width="10" height="10" stroke="none"/>
+      <rect x="-1.5" y="-1.5" width="13" height="13" fill="none"/>
+    </g>
+    <g id="Rectángulo_45297" data-name="Rectángulo 45297" transform="translate(-4888 -113)" fill="#ba68c8" stroke="#12263f" stroke-width="3">
+      <rect width="10" height="10" stroke="none"/>
+      <rect x="-1.5" y="-1.5" width="13" height="13" fill="none"/>
+    </g>
+    <g id="Rectángulo_45298" data-name="Rectángulo 45298" transform="translate(-4797 -123)" fill="#ba68c8" stroke="#12263f" stroke-width="3">
+      <rect width="10" height="10" stroke="none"/>
+      <rect x="-1.5" y="-1.5" width="13" height="13" fill="none"/>
+    </g>
+    <g id="Rectángulo_45299" data-name="Rectángulo 45299" transform="translate(-4705 -138)" fill="#ba68c8" stroke="#12263f" stroke-width="3">
+      <rect width="10" height="10" stroke="none"/>
+      <rect x="-1.5" y="-1.5" width="13" height="13" fill="none"/>
+    </g>
+  </g>
+</svg>
