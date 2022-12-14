@@ -415,50 +415,50 @@
 
     .row.justify-content-center.align-items-center.mb-5  
       .col-lg-3
-        p  #[b ¿Cuándo se utiliza el histograma? ]
+        p  ¿Cuándo se utiliza el histograma? 
 
         ul.lista-ul.mb-4.lista-ul--color
           li 
             i.fas.fa-angle-right.txt--orange
-            p.mb-0 #[b Para resumir a través de gráficos una variedad de información (población muy numerosa), resultado de una investigación de mercados.]  
+            p.mb-0 Para resumir a través de gráficos una variedad de información (población muy numerosa), resultado de una investigación de mercados.
 
           li 
             i.fas.fa-angle-right.txt--orange
-            p.mb-0 #[b Para comparar los resultados generados de un proceso con sus especificaciones.] 
+            p.mb-0 Para comparar los resultados generados de un proceso con sus especificaciones.
 
           li 
             i.fas.fa-angle-right.txt--orange
-            p.mb-0 #[b Para identificar el número de productos que no cumplen con las condiciones específicas de calidad.]  
+            p.mb-0 Para identificar el número de productos que no cumplen con las condiciones específicas de calidad.
 
           li 
             i.fas.fa-angle-right.txt--orange
-            p.mb-0 #[b Para divulgar los resultados al equipo de trabajo, a los coordinadores, a los supervisores, a los jefes, etc.] 
+            p.mb-0 Para divulgar los resultados al equipo de trabajo, a los coordinadores, a los supervisores, a los jefes, etc.
 
           li 
             i.fas.fa-angle-right.txt--orange
-            p.mb-0 #[b Para colaborar en el proceso de toma de decisiones.] 
+            p.mb-0 Para colaborar en el proceso de toma de decisiones.
 
       .col-lg-2
         figure
           img(src='@/assets/curso/temas/tema1/img38.svg', alt='')
 
       .col-lg-3
-        p  #[b ¿Cómo se utiliza?]
+        p  ¿Cómo se utiliza?
 
-        p #[b En los casos en los que se utiliza esta herramienta, se recomienda tener en cuenta las siguientes recomendaciones para su diseño:]
+        p En los casos en los que se utiliza esta herramienta, se recomienda tener en cuenta las siguientes recomendaciones para su diseño:
 
         ul.lista-ul.mb-4.lista-ul--color
           li 
             i.fas.fa-angle-right.txt--orange
-            p.mb-0 #[b Evitar, en lo posible, el uso de barras que sean demasiado anchas que puedan ocultar algunos detalles importantes o, en caso contrario, tan estrechas que puedan generar distorsión de los datos.]  
+            p.mb-0 Evitar, en lo posible, el uso de barras que sean demasiado anchas que puedan ocultar algunos detalles importantes o, en caso contrario, tan estrechas que puedan generar distorsión de los datos. 
 
           li 
             i.fas.fa-angle-right.txt--orange
-            p.mb-0 #[b Usar, preferiblemente, números redondos que sean iguales para crear tamaños de barras.] 
+            p.mb-0 Usar, preferiblemente, números redondos que sean iguales para crear tamaños de barras.
 
           li 
             i.fas.fa-angle-right.txt--orange
-            p.mb-0 #[b Utilizar colores y etiquetas en concordancia con el gráfico, de tal manera que se puedan identificar las relaciones más fácilmente.]  
+            p.mb-0 Utilizar colores y etiquetas en concordancia con el gráfico, de tal manera que se puedan identificar las relaciones más fácilmente.  
 
 
     LineaTiempoD.color-acento-contenido
