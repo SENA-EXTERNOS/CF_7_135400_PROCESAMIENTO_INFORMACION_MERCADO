@@ -3,7 +3,7 @@
   BannerInterno(icono="fas fa-sitemap" titulo="Síntesis")
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5
 
-    p Aprendiz, en el siguiente mapa conceptual se sintetiza la aplicación de herramientas estadísticas en la tabulación de datos. El gráfico de barras, el diagrama de Pareto, el histograma y la medida de tendencia central son las herramientas más empleadas en el análisis estadístico de los datos obtenidos en estudios de mercado. 
+    p.mb-5 El siguiente mapa integra los criterios y especificidades de los conocimientos expuestos en el presente componente formativo.
 
     .row.justify-content-center
       .col-lg-10.mb-5

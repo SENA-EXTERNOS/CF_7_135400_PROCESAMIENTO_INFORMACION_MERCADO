@@ -7,10 +7,10 @@
       .col-6.col-md-4.col-lg-3.mb-4.mb-md-0
         .tarjeta.h-100.d-flex.align-items-center.p-4
           figure
-            img(src="@/assets/template/completar.svg", alt="Texto que describa la imagen")
+            img(src="@/assets/template/1.svg", alt="Texto que describa la imagen")
       .col-12.col-md-8.col-lg-9
         .titulo-segundo
-          h2 Completar la frase
+          h2 Aplicación de herramientas estadísticas en la presentación de datos
         p.mb-4 Aprendiz, a continuación, encontrará una actividad didáctica para afianzar los conceptos y aprendizajes del componente formativo.
 
         p Esta es una actividad de “completar la frase”. Como su nombre lo indica, encontrará una frase incompleta a la cual le debe incluir la palabra faltante, de acuerdo con las definiciones vistas a lo largo del componente.

@@ -3,7 +3,7 @@ export default {
     componenteFormativo:
       'Aplicación de herramientas estadísticas en la presentación de datos',
     descripcionCurso:
-      'El presente componente formativo será un gran aporte para el aprendizaje de herramientas que ayuden a interpretar la información recolectada, de manera adecuada y precisa, en los procesos de investigación de mercados que emprende una empresa, en aras de fortalecer la comercialización de sus productos.',
+      'El presente componente formativo es un aporte para el aprendizaje de herramientas que ayudan a interpretar la información recolectada, de manera adecuada y precisa, en los procesos de investigación de mercados que emprende una empresa, en aras de fortalecer la comercialización de sus productos.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-princiapal.svg'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
     imagenesDecorativasBanner: [
@@ -70,7 +70,7 @@ export default {
           {
             icono: 'far fa-file-alt',
             numero: '1.4',
-            titulo: 'Histogramas. Maestro de productos',
+            titulo: 'Histogramas, maestro de productos',
             hash: 't_1_4',
           },
           {
@@ -124,8 +124,7 @@ export default {
   },
   complementario: [
     {
-      tema:
-        'Codificación y tabulación de datos e información de mercados	Tutor formación. (s,f). Codificación y tabulación de datos e información de mercados. Editorial tutor formación',
+      tema: 'Herramientas estadísticas',
       referencia:
         'Tutor formación. (s,f). <em>Codificación y tabulación de datos e información de mercados</em>. Editorial tutor formación',
       tipo: 'PDF',
@@ -133,23 +132,31 @@ export default {
         'https://editorial.tutorformacion.es/es/index.php?controller=attachment&id_attachment=151://www.google.com/',
     },
     {
-      tema: 'Fuentes de información',
+      tema: 'Herramientas estadísticas',
       referencia:
-        'Margarita Aida Cruz García(2019). <em>Boletín Científico de las Ciencias Económico Administrativas del ICEA.</em>',
+        'Cruz García, M. A. (2019). <em>Boletín Científico de las Ciencias Económico Administrativas del ICEA.</em>',
       tipo: 'Artículo',
       link:
         'https://repository.uaeh.edu.mx/revistas/index.php/icea/article/view/4864/6748',
     },
     {
-      tema: 'Guía para la presentación de gráficos estadísticos',
+      tema: 'Herramientas estadísticas',
       referencia:
-        'ISO 27001. (2013). Sistema de Gestión de Seguridad en la Información.',
+        'Instituto Nacional de Estadística e Informática. (2009) <i>Guía para la presentación de gráficos estadísticos</i>. Perú. INEI.',
+      tipo: 'Norma',
+      link:
+        'https://www.inei.gob.pe/media/MenuRecursivo/metodologias/libro.pdf',
+    },
+    {
+      tema: 'Herramientas estadísticas',
+      referencia:
+        'ISO 27001. (2013). <i>Sistema de Gestión de Seguridad en la Información</i>.',
       tipo: 'Norma',
       link:
         'https://www.nqa.com/medialibraries/NQA/NQA-Media-Library/PDFs/Spanish%20QRFs%20and%20PDFs/NQA-ISO-27001-Guia-de-implantacion.pdf',
     },
     {
-      tema: 'Guía de implementación para la seguridad de la información ',
+      tema: 'Herramientas estadísticas',
       referencia:
         'ISO 27001. (2013). <em>Guía de implementación para la seguridad de la información.</em>',
       tipo: 'Norma',
@@ -246,38 +253,19 @@ export default {
   referencias: [
     {
       referencia:
-        'Artículo	Alfredo Baronio, S. C. (2018). <em>Saber y Saber Hacer con Estadística</em>. Córdoba, Argentina: UniRio.',
-      link: '',
+        'Alfredo Baronio, S. C. (2018).<i>Saber y Saber Hacer con Estadística</i>. Argentina UniRio.',
     },
     {
       referencia:
-        'ISO 27001. (2013). Sistema de Gestión de Seguridad en la Información.',
-      link: '',
+        'Torres, M.(s.f.). MÉTODOS DE RECOLECCIÓN DE DATOS PARA UNA INVESTIGACIÓN. <i>Boletín electrónico No. 03</i>. Facultad de Ingeniería, Universidad Rafael Landívar.',
     },
     {
       referencia:
-        'Margarita Aida Cruz García. (2019). <em>Boletín Científico de las Ciencias Económico Administrativas del ICEA</em>. Obtenido de',
-      link:
-        'https://repository.uaeh.edu.mx/revistas/index.php/icea/article/view/4864/6748',
+        'Hernández Sampieri, R. (2016). <i>Metodología de la Investigación</i>. Mc Graw Hill.',
     },
     {
       referencia:
-        'Margarita Aida Cruz García. (2019). <em>Boletín Científico de las Ciencias Económico Administrativas del ICEA</em>. Obtenido de ',
-      link: '',
-    },
-    {
-      referencia:
-        'Mariela Torres, K. P. (s.f.). MÉTODOS DE RECOLECCIÓN DE DATOS PARA UNA INVESTIGACIÓN. <em>Boletín electrónico No. 03</em>. Facultad de Ingeniería, Universidad Rafael Landívar.',
-      link: '',
-    },
-    {
-      referencia:
-        'Roberto Hernandez Sampieri, C. F. (2016). <em>Metodología de la Investigación</em>. Mc Graw Hill.',
-      link: '',
-    },
-    {
-      referencia:
-        'Universidad Autónoma del estado de Hidalgo. (2018). Fuentes de información. Obtenido de Sistema de Universidad Virtual:',
+        'Universidad Autónoma del estado de Hidalgo. (2018). <i>Fuentes de información</i>.',
       link:
         'https://repository.uaeh.edu.mx/bitstream/bitstream/handle/123456789/16700/LECT132.pdf',
     },

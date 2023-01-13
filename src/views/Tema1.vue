@@ -12,11 +12,11 @@
         :style="{'background-image': `url(${require('@/assets/curso/temas/tema1/img1.svg')})`}"
       )
       .bloque-texto-g__texto.p-4
-        p.mb-0 Las herramientas estadísticas ofrecen muy buenas opciones para la solución de problemas que pueden presentarse en cualquier empresa. A través de ellas se logra obtener información precisa de un objetivo específico establecido con fines de identificar un comportamiento, tendencia, preferencia, entre otros, de los clientes en cualquier estudio de mercado. Además, también son útiles para interpretar y controlar las variables en los diferentes procesos de una empresa, por ejemplo, para controlar la calidad. Las herramientas estadísticas tienen sus propias características, de tal manera que están diseñadas para representar diferentes tipos de datos, dependiendo del problema que se aborde. La utilización de herramientas estadísticas a través de gráficos constituye una importante herramienta para la interpretación de los datos, dado que permite una comprensión rápida y completa de la información al representar visualmente en forma conjunta los resultados más importantes.
+        p.mb-0 Las herramientas estadísticas ofrecen muy buenas opciones para la solución de problemas que pueden presentarse en cualquier empresa. A través de ellas se logra obtener información precisa de un objetivo específico, establecido con fines de identificar un comportamiento, tendencia o preferencia de los clientes, en cualquier estudio de mercado.<br><br> Son útiles para interpretar y controlar las variables en los diferentes procesos de una empresa; por ejemplo, para controlar la calidad. Las herramientas estadísticas tienen sus propias características, de tal manera que están diseñadas para representar diferentes tipos de datos, dependiendo del problema que se aborde. La utilización de herramientas estadísticas a través de gráficos, constituye una importante herramienta para la interpretación de los datos, dado que permite una comprensión rápida y completa de la información, al representar visualmente, de forma conjunta, los resultados más importantes.
 
     .row.justify-content-center.align-items-center.mb-5.background-img.mt-5.ajuste-recuadro       
       .col-lg-8.p-4
-        p El origen de los datos empleados en el análisis depende de la disponibilidad de información que exista, la cual puede provenir de fuentes primarias o secundarias. La información cuantitativa vendría siendo, quizás, de mayor precisión, debido a que es medible y cuantificable. 
+        p El origen de los datos empleados en el análisis, depende de la disponibilidad de información que exista, la cual puede provenir de fuentes primarias o secundarias. La información cuantitativa vendría siendo, quizás, la de mayor precisión, debido a que es medible y cuantificable. 
 
         p Las herramientas estadísticas deben ser identificadas con ciertos parámetros que las caracterizan; por ejemplo, deben tener código o número, título y cuerpo. 
 
@@ -88,11 +88,10 @@
       
     .row.justify-content-center.align-items-center.mb-5 
       .col-lg-10
-        p Existen diversos gráficos que facilitan el análisis de la información estadística, entre los cuales se tienen: gráfico de barras, gráfico de líneas, gráfico circular e histograma. 
+        p Existen diversos gráficos que facilitan el análisis de la información estadística, entre los cuales se tienen: gráfico de barras, gráfico de líneas, gráfico circular e histograma: 
 
         figure
           img(src='@/assets/curso/temas/tema1/img6.svg')
-          figcaption.mt-3 Fuente: elaboración del experto
 
         p.mt-5 En la selección de herramientas estadísticas se pueden considerar los siguientes criterios: 
     
@@ -199,7 +198,7 @@
           img(src='@/assets/curso/temas/tema1/img16.svg')
 
     .row.mt-5
-      p A continuación, se explicarán los gráficos de barras verticales y horizontales.
+      p Teniendo en cuenta los tipos, se explicarán los gráficos de barras verticales y horizontales.
 
     TabsC.color-acento-contenido
       .py-3.py-md-4(titulo="Gráfico de barras verticales").bgr1-pasos-tema1
@@ -296,7 +295,7 @@
             figure
               img(src="@/assets/curso/temas/tema1/img28.svg", alt="alt")
           .col-10
-            p A continuación, se presenta un video, que sirve como orientación para la elaboración de los gráficos de barras.
+            p Es necesario elaborar gráficos de barras para la presentación de informes y demás, que lo ameriten; a continuación, observe el siguiente video, y conozca sobre la elaboración de estos.
 
     .row.mt-4
       figure
@@ -318,7 +317,7 @@
       .col-lg-8
         p.mt-3 El gráfico de Pareto corresponde a un tipo de gráfico de barras verticales, en el cual se ordenan los datos por frecuencias y de manera descendente, según su prioridad. 
 
-        p El análisis de Pareto es un gráfico ampliamente utilizado en el análisis de datos, específicamente cuando se busca encontrar las causas en donde hay que poner mayor atención para la solución de problemas. 
+        p El análisis de Pareto es un gráfico ampliamente utilizado en el análisis de datos, específicamente cuando se busca encontrar las causas en donde hay que poner mayor atención, para la solución de problemas. 
 
     .row.justify-content-center.align-items-center.mb-5.mt-5       
       .col-lg-12
@@ -327,7 +326,7 @@
 
     .row.justify-content-center.align-items-center.mb-5  
       .col-lg-8.background-img.mt-5.p-4   
-        p La regla 80-20 es reconocida como el #[b Principio de Pareto]. Se basa en afirmar que el 80 % de las situaciones son causadas generalmente por el 20 % de los factores. Este principio invita a generar mayor esfuerzo en analizar ese 20 % que podría ser más representativo para la solución de los problemas en los procesos de las empresas, como en la calidad, la producción, el mercadeo, etc. Esto implica centrar la atención en un número pequeño de factores que, en ocasiones, son de mayor relevancia.
+        p La regla 80-20 es reconocida como el <b>principio de Pareto</b>. Se basa en afirmar que el 80 % de las situaciones son causadas generalmente por el 20 % de los factores. Este principio invita a generar mayor esfuerzo en analizar ese 20 % que podría ser más representativo para la solución de los problemas en los procesos de las empresas, como en la calidad, la producción, el mercadeo, etc. Esto implica centrar la atención en un número pequeño de factores que, en ocasiones, son de mayor relevancia. 
 
     .row.justify-content-center.align-items-center.mb-5.mt-5       
       .col-lg-8
@@ -377,7 +376,7 @@
           
               .col-lg-6.col-6
                 figure
-                  img(src='@/assets/curso/temas/tema1/img35.svg', alt='')
+                  img(src='@/assets/curso/temas/tema1/1.svg', alt='')
 
             .row.justify-content-center.align-items-center.mb-5.mt-5.p-4(titulo="").pt-3
               .col-lg-6.mb-4.mb-lg-0
@@ -392,7 +391,7 @@
     #t_1_4
 
     .titulo-segundo.color-acento-contenido.mt-5(data-aos="zoom-in-left")
-      h2 1.4 Histogramas. Maestro de productos  
+      h2 1.4 Histogramas, maestro de productos
 
     .row.justify-content-center.align-items-center.mb-5  
       .col-lg-10
@@ -465,43 +464,43 @@
       .row(numero="1" titulo="Recoger los datos de X")
         .col-md-12.mb-4.mb-md-0
 
-          p.text-small En este primer paso se reconocen los datos X que se van a analizar. Los datos deben ser representativos, es decir, no deben ser obsoletos o incompletos. 
+          p En este primer paso se reconocen los datos X que se van a analizar. Los datos deben ser representativos, es decir, no deben ser obsoletos o incompletos. 
 
-          p.text-small #[u Ejemplo:]
+          p #[u Ejemplo:]
           
-          p.text-small Una empresa debe fabricar tapas con una longitud aproximada de 25±0,4 mm. Ahora, para revisar el número de piezas que presentan margen de tolerancia, se tomarán 30 muestras, como se ve en la siguiente tabla:    
+          p Una empresa debe fabricar tapas con una longitud aproximada de 25±0,4 mm. Ahora, para revisar el número de piezas que presentan margen de tolerancia, se tomarán 30 muestras, como se ve en la siguiente tabla:    
 
           figure
-            img(src='@/assets/curso/temas/tema1/img39.svg', alt='Texto que describa la imagen')
+            img(src='@/assets/curso/temas/tema1/2.svg', alt='Texto que describa la imagen')
 
 
       .row(numero="2" titulo="Definir el rango")
         .col-md-12.mb-4.mb-md-0
-          p.text-small Consiste en restar el valor máximo menos el mínimo.
-          p.text-small Rango = Max - Min, es decir: 25,2 - 23,8 = 1,4
+          p Consiste en restar el valor máximo menos el mínimo.
+          p Rango = Max - Min, es decir: 25,2 - 23,8 = 1,4
 
       .row(numero="3" titulo="Establecer las clases")
         .col-md-12.mb-4.mb-md-0
-          p.text-small Corresponde a los intervalos en los que se deben dividir los valores de los datos. Se representa con la letra K.
+          p Corresponde a los intervalos en los que se deben dividir los valores de los datos. Se representa con la letra K.
           figure
-            img(src='@/assets/curso/temas/tema1/img40.svg', alt='Texto que describa la imagen')
-          p.text-small.mt-3 De acuerdo con la tabla anterior, deberían tomarse 6 clases, debido a que existen 30 muestras. Por lo tanto, K = 6
+            img(src='@/assets/curso/temas/tema1/3.svg', alt='Texto que describa la imagen')
+          p.mt-3 De acuerdo con la tabla anterior, deberían tomarse 6 clases, debido a que existen 30 muestras. Por lo tanto, K = 6
 
       .row(numero="4" titulo="Establecer la amplitud del intervalo de cada clase")
         .col-md-12.mb-4.mb-md-0
-          p.text-small Se establece la amplitud del intervalo de cada clase identificado con la h. Todas deberán tener la misma amplitud. Para su cálculo, es necesario aplicar la fórmula: #[b h= R/K.] Remplazando tenemos que #[b h= 1,4/6 = 0,233.]
+          p Se establece la amplitud del intervalo de cada clase identificado con la h. Todas deberán tener la misma amplitud. Para su cálculo, es necesario aplicar la fórmula: #[b h= R/K.] Remplazando tenemos que #[b h= 1,4/6 = 0,233.]
 
       .row(numero="5" titulo="Revisar el número de datos definido en cada clase")
         .col-md-12.mb-4.mb-md-0
-          p.text-small Se revisa el número de datos definido en cada clase, es decir, la frecuencia de cada clase.
+          p Se revisa el número de datos definido en cada clase, es decir, la frecuencia de cada clase.
 
           figure
-            img(src='@/assets/curso/temas/tema1/img41.svg', alt='Texto que describa la imagen')
+            img(src='@/assets/curso/temas/tema1/4.svg', alt='Texto que describa la imagen')
 
       .row(numero="6" titulo="Representar gráficamente")
         .col-md-12.mb-4.mb-md-0
-          p.text-small Representar gráficamente, con la ayuda de un programa para el desarrollo de gráficos, en el cual el eje de las X corresponde a las clases, es decir, la longitud, y el eje de las Y a las frecuencias, es decir, al número de tapas.
-          p.text-small #[u Ejemplo:]
+          p Representar gráficamente, con la ayuda de un programa para el desarrollo de gráficos, en el cual el eje de las X corresponde a las clases, es decir, la longitud, y el eje de las Y a las frecuencias, es decir, al número de tapas.
+          p #[u Ejemplo:]
 
           figure
             img(src='@/assets/curso/temas/tema1/img42.svg', alt='Texto que describa la imagen')
@@ -604,8 +603,7 @@
                     p.mb-0 Es la única medida que analiza la posición de los valores de tipo cuantitativo y cualitativo.
 
     .row.mt-3
-      p Aprendiz, ha culminado satisfactoriamente el estudio de las temáticas del componente formativo. A continuación se presenta una síntesis donde recordará todo lo aprendido. También encontrará la actividad didáctica y los materiales complementarios para que fortalezca sus conocimientos en los temas vistos.                   
-
+      p Recuerde explorar los demás recursos que se encuentran disponibles en este componente formativo; para ello, diríjase al menú principal, donde encontrará la síntesis, una actividad didáctica para reforzar los conceptos estudiados, material complementario, entre otros.
 </template>
 
 <script>

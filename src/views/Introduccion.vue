@@ -11,13 +11,15 @@
 
     .row.justify-content-center.align-items-center.mb-5.background-img.p-4           
       .col-lg-9
-        p Estimado aprendiz, este componente estará enfocado en un proceso formativo que le ayudará a desarrollar la competencia de aprendizaje propuesta y lo guiará para que pueda presentar resultados del procesamiento de datos de acuerdo con normas de archivo y control de documentación. Dicha tarea implica representar los datos a través de herramientas estadísticas que facilitan el análisis de la información. 
+        p Estimado aprendiz, este componente se encuentra enfocado en presentar resultados del procesamiento de datos, de acuerdo con normas de archivo y control de documentación. Esta tarea implica representar los datos a través de herramientas estadísticas que facilitan el análisis de la información.  
 
-        p Los resultados de una investigación de mercados pueden presentarse en dos opciones de formato: la tabulación y los gráficos. La tabulación consiste en la organización de los datos seleccionados mediante filas y columnas, a lo que se le denomina tabla estadística. Los gráficos consisten en la aplicación de puntos, líneas y figuras que permiten demostrar magnitudes relacionadas a una escala de medición, con el fin de facilitar la interpretación de los datos estadísticos. Los gráficos estadísticos se estructuran de acuerdo con la utilidad que representan, y cada uno de estos es específico en su utilidad; además existen normas generales para presentarlos con criterio.
+        p Los resultados de una investigación de mercados pueden presentarse en dos opciones de formato: la tabulación y los gráficos. La tabulación consiste en la organización de los datos seleccionados mediante filas y columnas, a lo que se le denomina tabla estadística. Los gráficos consisten en la aplicación de puntos, líneas y figuras, que permiten demostrar magnitudes relacionadas a una escala de medición, con el fin de facilitar la interpretación de los datos estadísticos. Los gráficos estadísticos se estructuran, de acuerdo con la utilidad que representan, y cada uno de estos es específico en su utilidad; además, existen normas generales para presentarlos con criterio.
 
       .col-lg-3
         figure
           img(src='@/assets/curso/temas/introduccion/img1.svg').imgdimensioncaj.imagen-decora
+
+    p.mt-5 En el siguiente video conocerá, de forma general, la temática que se estudiará a lo largo del componente formativo.
 
     .row.justify-content-center.align-items-center.mb-5.mt-5 
       .col-lg-1
