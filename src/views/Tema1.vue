@@ -413,51 +413,53 @@
               p.mb-0 #[b Variable:] es la característica cuantitativa de un suceso. Puede ser medida y representada por un valor numérico determinado, que estaría relacionado con una escala de medida.
 
     .row.justify-content-center.align-items-center.mb-5  
-      .col-lg-3
-        p  ¿Cuándo se utiliza el histograma? 
+      .col-lg-4
+        .bg1.p-4.h-100
+          h4  ¿Cuándo se utiliza el histograma? 
 
-        ul.lista-ul.mb-4.lista-ul--color
-          li 
-            i.fas.fa-angle-right.txt--orange
-            p.mb-0 Para resumir a través de gráficos una variedad de información (población muy numerosa), resultado de una investigación de mercados.
+          ul.lista-ul.mb-4.lista-ul--color
+            li 
+              i.fas.fa-angle-right.txt--orange
+              p.mb-0 Para resumir a través de gráficos una variedad de información (población muy numerosa), resultado de una investigación de mercados.
 
-          li 
-            i.fas.fa-angle-right.txt--orange
-            p.mb-0 Para comparar los resultados generados de un proceso con sus especificaciones.
+            li 
+              i.fas.fa-angle-right.txt--orange
+              p.mb-0 Para comparar los resultados generados de un proceso con sus especificaciones.
 
-          li 
-            i.fas.fa-angle-right.txt--orange
-            p.mb-0 Para identificar el número de productos que no cumplen con las condiciones específicas de calidad.
+            li 
+              i.fas.fa-angle-right.txt--orange
+              p.mb-0 Para identificar el número de productos que no cumplen con las condiciones específicas de calidad.
 
-          li 
-            i.fas.fa-angle-right.txt--orange
-            p.mb-0 Para divulgar los resultados al equipo de trabajo, a los coordinadores, a los supervisores, a los jefes, etc.
+            li 
+              i.fas.fa-angle-right.txt--orange
+              p.mb-0 Para divulgar los resultados al equipo de trabajo, a los coordinadores, a los supervisores, a los jefes, etc.
 
-          li 
-            i.fas.fa-angle-right.txt--orange
-            p.mb-0 Para colaborar en el proceso de toma de decisiones.
+            li 
+              i.fas.fa-angle-right.txt--orange
+              p.mb-0 Para colaborar en el proceso de toma de decisiones.
 
       .col-lg-2
         figure
           img(src='@/assets/curso/temas/tema1/img38.svg', alt='')
 
-      .col-lg-3
-        p  ¿Cómo se utiliza?
+      .col-lg-4
+        .bg1.p-4.h-100
+          h4 ¿Cómo se utiliza?
 
-        p En los casos en los que se utiliza esta herramienta, se recomienda tener en cuenta las siguientes recomendaciones para su diseño:
+          p En los casos en los que se utiliza esta herramienta, se recomienda tener en cuenta las siguientes recomendaciones para su diseño:
 
-        ul.lista-ul.mb-4.lista-ul--color
-          li 
-            i.fas.fa-angle-right.txt--orange
-            p.mb-0 Evitar, en lo posible, el uso de barras que sean demasiado anchas que puedan ocultar algunos detalles importantes o, en caso contrario, tan estrechas que puedan generar distorsión de los datos. 
+          ul.lista-ul.mb-4.lista-ul--color
+            li 
+              i.fas.fa-angle-right.txt--orange
+              p.mb-0 Evitar, en lo posible, el uso de barras que sean demasiado anchas que puedan ocultar algunos detalles importantes o, en caso contrario, tan estrechas que puedan generar distorsión de los datos. 
 
-          li 
-            i.fas.fa-angle-right.txt--orange
-            p.mb-0 Usar, preferiblemente, números redondos que sean iguales para crear tamaños de barras.
+            li 
+              i.fas.fa-angle-right.txt--orange
+              p.mb-0 Usar, preferiblemente, números redondos que sean iguales para crear tamaños de barras.
 
-          li 
-            i.fas.fa-angle-right.txt--orange
-            p.mb-0 Utilizar colores y etiquetas en concordancia con el gráfico, de tal manera que se puedan identificar las relaciones más fácilmente.  
+            li 
+              i.fas.fa-angle-right.txt--orange
+              p.mb-0 Utilizar colores y etiquetas en concordancia con el gráfico, de tal manera que se puedan identificar las relaciones más fácilmente.  
 
 
     LineaTiempoD.color-acento-contenido

@@ -21,15 +21,8 @@
 
     p.mt-5 En el siguiente video conocerá, de forma general, la temática que se estudiará a lo largo del componente formativo.
 
-    .row.justify-content-center.align-items-center.mb-5.mt-5 
-      .col-lg-1
-        figure
-          img(src='@/assets/curso/temas/introduccion/img2.svg').imgdimensioncaj.imagen-decora
-      
-      .col-lg-8
-        p #[b A partir de este momento, puede comenzar a ampliar sus conocimientos, visualizando el video introductorio que se presenta a continuación. Este material se convertirá en un insumo fundamental para que analice la información recolectada de manera adecuada y precisa en los procesos de investigación de mercados que emprenda una empresa, en aras de fortalecer la comercialización de sus productos.]
-    
-    .row.mt-4
+   
+    .row.mt-5
       figure
         .video
           iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
