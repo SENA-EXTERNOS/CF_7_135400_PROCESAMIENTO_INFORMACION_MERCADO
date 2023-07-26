@@ -95,8 +95,8 @@
 
         p.mt-5 En la selección de herramientas estadísticas se pueden considerar los siguientes criterios: 
     
-    .row.justify-content-center.align-items-center.mb-5 
-      .col-lg-9.position-relative
+    .row.justify-content-star.align-items-center.mb-5 
+      .col-lg-10.position-relative
         .avatar.justify-content-center.align-items-center.mb-5 
           figure
             img(src="@/assets/curso/temas/tema1/img14.svg", alt="alt").img251
@@ -108,7 +108,7 @@
             .col
               p Los gráficos que incluyen columnas pueden ser recomendados para presentar información que implique tiempo. La diferencia con los de líneas es que son ideales para periodos cortos de tiempo.  
 
-        .crd.crd--avatarHorizontal.py-4
+        .crd.crd--avatarHorizontal.py-4.bradtl
           .row.align-items-center
             .col-auto
               figure

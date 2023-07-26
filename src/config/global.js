@@ -161,7 +161,7 @@ export default {
         'ISO 27001. (2013). <em>Guía de implementación para la seguridad de la información.</em>',
       tipo: 'Norma',
       link:
-        'https://www.nqa.com/medialibraries/NQA/NQA-Media-Library/PDFs/Spanish%20QRFs%20and%20PDFs/NQA-ISO-27001-Guia-de-implantacion.pdf',
+        'https://www.dnv.com/ar/services/iso-27001-sistema-de-gestion-de-seguridad-de-la-informacion-3327',
     },
   ],
   glosario: [
