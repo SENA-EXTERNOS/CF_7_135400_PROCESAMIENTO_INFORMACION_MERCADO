@@ -286,7 +286,7 @@
           .col-6
             img(src='@/assets/curso/temas/tema1/img27.svg' alt='AvatarTop')
         h3.text-center Línea de tendencia
-        p.text-center Es la línea o curva que representa la media de los valores de un gráfico de barras. La línea de tendencia permite facilitar la observación en la comparación y, de esta manera, relacionar los datos observados.
+        p.text-center Es la línea o curva que representa la media de los valores de un gráfico de barras. La línea de tendencia permite facilitar la observación en la comparación, de esta manera, relacionar los datos observados.
 
     .row.justify-content-center.align-items-center.mb-5.mt-5      
       .col-10

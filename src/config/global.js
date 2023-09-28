@@ -155,14 +155,6 @@ export default {
       link:
         'https://www.nqa.com/medialibraries/NQA/NQA-Media-Library/PDFs/Spanish%20QRFs%20and%20PDFs/NQA-ISO-27001-Guia-de-implantacion.pdf',
     },
-    {
-      tema: 'Herramientas estadísticas',
-      referencia:
-        'ISO 27001. (2013). <em>Guía de implementación para la seguridad de la información.</em>',
-      tipo: 'Norma',
-      link:
-        'https://www.dnv.com/ar/services/iso-27001-sistema-de-gestion-de-seguridad-de-la-informacion-3327',
-    },
   ],
   glosario: [
     {
@@ -266,8 +258,6 @@ export default {
     {
       referencia:
         'Universidad Autónoma del estado de Hidalgo. (2018). <i>Fuentes de información</i>.',
-      link:
-        'https://repository.uaeh.edu.mx/bitstream/bitstream/handle/123456789/16700/LECT132.pdf',
     },
   ],
   creditos: {
