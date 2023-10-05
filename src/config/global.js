@@ -245,15 +245,46 @@ export default {
   referencias: [
     {
       referencia:
-        'Alfredo Baronio, S. C. (2018).<i>Saber y Saber Hacer con Estadística</i>. Argentina UniRio.',
+        'Alfredo Baronio, S. C. (2018).<i> Saber y Saber Hacer con Estadística</i>. Argentina UniRio.',
+      link:
+        'http://www.unirioeditora.com.ar/wp-content/uploads/2018/10/978-987-688-265-1.pdf#page=18',
+    },
+    {
+      referencia:
+        'Escuela de Administración de Negocios. (2008). Metodologías de la Investigación en las Ciencias Sociales. En C. L. Ibáñez, <em>Fases, fuentes y selección de técnicas (pág. 9)</em>. Revista EAN.',
+      link:
+        'https://journal.universidadean.edu.co/index.php/revista/article/view/450',
+    },
+    {
+      referencia:
+        'Garcia, J. Z. (2018). Universidad Autónoma del estado de Hidalgo.',
+      link:
+        'https://repository.uaeh.edu.mx/revistas/index.php/xikua/issue/view/445',
     },
     {
       referencia:
         'Torres, M.(s.f.). MÉTODOS DE RECOLECCIÓN DE DATOS PARA UNA INVESTIGACIÓN. <i>Boletín electrónico No. 03</i>. Facultad de Ingeniería, Universidad Rafael Landívar.',
+      link: 'http://148.202.167.116:8080/jspui/handle/123456789/2817',
     },
     {
       referencia:
         'Hernández Sampieri, R. (2016). <i>Metodología de la Investigación</i>. Mc Graw Hill.',
+    },
+    {
+      referencia:
+        'Meneses, L. E., & Rodríguez, E. R. (2008). <em>Aplicaciones de las Herramientas Estadísticas de Recolección y Análisis de Datos a una Muestra</em> (Doctoral dissertation).',
+      link:
+        'http://ri2.bib.udo.edu.ve:8080/jspui/bitstream/123456789/2658/2/TESIS_LMyER--%5b00410%5d--%28ne%29.pdf',
+    },
+    {
+      referencia:
+        'Rodríguez, I. V. (2018). <em>Metodología para la elaboración de guías de fuentes de información. Universidad Complutense de Madrid.</em>',
+    },
+    {
+      referencia:
+        'Salazar, C., & Castillo, S. D. (2018). Fundamentos básicos de estadística.',
+      link:
+        'https://gc.scalahed.com/recursos/files/r161r/w24899w/Trabajo%20Final/Fundamentos_Basicos_de_Estadistica.pdf',
     },
     {
       referencia:
